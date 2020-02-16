@@ -1,0 +1,41 @@
+
+website template :
+
+*****interactive components !!!
+*****cartoonish 
+*****one key animation
+
+
+
+header 
+
+
+main illustration which is animated have to work on idea of illustartion (monile verssion as well desktop version )
+
+
+About section
+Name: ​Mehdi ​XXXXXXXMy Story (put pictures)*I am a current senior at ​XXXXXXXXXXXXXXXXX​ and
+ am actively pursuing the SoftwareEngineering Track. As a kid, I loved playing around with code,
+  learning from my fathercreate exciting programs. Even now, I still am learning more and more about 
+  ComputerScience and its implications in society today. I love programming in Python, Javascript,Java,
+   and talking about code. I am most interested 
+in the intersection between ArtificialIntelligence and Ethics, which concern most of us today
+
+
+Favorite Movies (very interactive)●Police Story●Rush Hour●Drunken Master●Etc
+
+
+Favorite Shows (very interactive)●You●Lucifer●iZombie●Money Heist●Mr. Robot●Sex Education
+                                   ●Limitless●Jane the Virgin●Breaking Bad
+
+
+My accolades
+
+National College Match Finalist, QuestBridge College Prep Scholar,
+ CTE Scholar, APScholar, Teacher of the Month
+
+My coding Projects 
+//
+
+Contact me section 
+//
